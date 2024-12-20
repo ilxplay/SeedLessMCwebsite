@@ -23,7 +23,7 @@ const Hero = () => {
           </h2>
 
           <TextGenerateEffect
-            className='text-center text-[40px] md:text-3xl lg:text-4xl'
+            className='text-center text-[40px] md:text-4xl lg:text-4xl'
             words='Unforgettable and unique minecraft experience'
           />
 
