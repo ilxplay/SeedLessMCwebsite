@@ -51,7 +51,7 @@ export const BentoGridItem = ({
         className
       )}
       style={{
-        background: "rgb(10,8,36)",
+        background: "rgb(10,8,35)",
         backgroundColor: "linear-gradient(90deg, rgba(14,12,50,1) 0%, rgba(108,108,223,1) 35%, rgba(110,78,171,1) 100%);"
 
       }}
