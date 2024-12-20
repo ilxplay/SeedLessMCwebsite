@@ -2,6 +2,7 @@ import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
 import LitUpBordersButton from './ui/LitUpBordersButton'
+import { FaLocationArrow } from "react-icons/fa";
 
 
 const Hero = () => {
@@ -30,6 +31,8 @@ const Hero = () => {
           <a href='#about'>
             <LitUpBordersButton
               title="about"
+              icon={<FaLocationArrow />}
+              position='right'
             />
           </a>
         </div>
